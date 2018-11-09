@@ -1,2 +1,2 @@
 # Chimerge
-Chimerge算法实现和卡房分箱
+Chimerge算法实现和卡方分箱
